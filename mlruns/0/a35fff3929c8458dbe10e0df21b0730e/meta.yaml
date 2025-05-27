@@ -1,0 +1,15 @@
+artifact_uri: file:///home/neosoft/titanic_mini_project/mlruns/0/a35fff3929c8458dbe10e0df21b0730e/artifacts
+end_time: 1747893020596
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a35fff3929c8458dbe10e0df21b0730e
+run_name: skittish-ray-345
+run_uuid: a35fff3929c8458dbe10e0df21b0730e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747893020562
+status: 4
+tags: []
+user_id: neosoft

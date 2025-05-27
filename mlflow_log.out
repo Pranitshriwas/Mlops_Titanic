@@ -1,0 +1,9 @@
+nohup: ignoring input
+Downloading artifacts:   0%|          | 0/5 [00:00<?, ?it/s]Downloading artifacts:  20%|██        | 1/5 [00:00<00:00, 1165.73it/s]Downloading artifacts:  40%|████      | 2/5 [00:00<00:00, 1743.99it/s]Downloading artifacts:  60%|██████    | 3/5 [00:00<00:00, 1981.25it/s]Downloading artifacts:  80%|████████  | 4/5 [00:00<00:00, 2393.67it/s]Downloading artifacts: 100%|██████████| 5/5 [00:00<00:00, 2742.81it/s]Downloading artifacts: 100%|██████████| 5/5 [00:00<00:00, 2561.56it/s]
+2025/05/27 10:54:06 INFO mlflow.models.flavor_backend_registry: Selected backend for flavor 'python_function'
+2025/05/27 10:54:06 INFO mlflow.pyfunc.backend: === Running command 'exec gunicorn --timeout=60 -b 127.0.0.1:1234 -w 1 ${GUNICORN_CMD_ARGS} -- mlflow.pyfunc.scoring_server.wsgi:app'
+[2025-05-27 10:54:06 +0530] [10659] [INFO] Starting gunicorn 23.0.0
+[2025-05-27 10:54:06 +0530] [10659] [INFO] Listening at: http://127.0.0.1:1234 (10659)
+[2025-05-27 10:54:06 +0530] [10659] [INFO] Using worker: sync
+[2025-05-27 10:54:06 +0530] [10661] [INFO] Booting worker with pid: 10661
+2025/05/27 10:54:07 WARNING mlflow.utils.requirements_utils: Encountered an unexpected error (KeyError('Name')) while detecting model dependency mismatches. Set logging level to DEBUG to see the full traceback.

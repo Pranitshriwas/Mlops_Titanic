@@ -1,0 +1,15 @@
+artifact_uri: file:///home/neosoft/titanic_mini_project/mlruns/0/7adf483ffdd146dd94401913324da352/artifacts
+end_time: 1747890470968
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7adf483ffdd146dd94401913324da352
+run_name: Data Preparation
+run_uuid: 7adf483ffdd146dd94401913324da352
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747890470933
+status: 3
+tags: []
+user_id: neosoft
