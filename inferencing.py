@@ -8,7 +8,7 @@ headers = {"Content-Type": "application/json"}
 data = {
     "dataframe_split": {
         "columns": ["Pclass", "Sex", "Age", "Parch", "Fare"],
-        "data": [[3, 1, 72.0, 2, 12.432]]  # example input
+        "data": [[3, 1, 72.0, 2, 43.432]]  # example input
     }
 }
 
