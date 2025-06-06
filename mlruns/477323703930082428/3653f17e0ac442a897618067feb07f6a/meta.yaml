@@ -1,0 +1,15 @@
+artifact_uri: file:///home/neosoft/ml_pipeline/mlruns/477323703930082428/3653f17e0ac442a897618067feb07f6a/artifacts
+end_time: 1748604193985
+entry_point_name: ''
+experiment_id: '477323703930082428'
+lifecycle_stage: active
+run_id: 3653f17e0ac442a897618067feb07f6a
+run_name: able-grouse-442
+run_uuid: 3653f17e0ac442a897618067feb07f6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748604193969
+status: 4
+tags: []
+user_id: neosoft

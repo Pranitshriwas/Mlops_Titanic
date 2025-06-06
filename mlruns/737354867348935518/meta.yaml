@@ -1,0 +1,6 @@
+artifact_location: file:///home/neosoft/ml_pipeline/mlruns/737354867348935518
+creation_time: 1748606410186
+experiment_id: '737354867348935518'
+last_update_time: 1748606410186
+lifecycle_stage: active
+name: Titanic_LogReg_Validation

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/neosoft/ml_pipeline/mlruns/440563976010855809/f712f16becea46abb5d026c58543467d/artifacts
+end_time: 1749123852616
+entry_point_name: ''
+experiment_id: '440563976010855809'
+lifecycle_stage: active
+run_id: f712f16becea46abb5d026c58543467d
+run_name: brawny-crane-146
+run_uuid: f712f16becea46abb5d026c58543467d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749123849744
+status: 3
+tags: []
+user_id: neosoft

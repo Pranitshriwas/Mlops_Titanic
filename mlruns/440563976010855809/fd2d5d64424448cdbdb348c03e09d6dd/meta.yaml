@@ -1,0 +1,15 @@
+artifact_uri: file:///home/neosoft/ml_pipeline/mlruns/440563976010855809/fd2d5d64424448cdbdb348c03e09d6dd/artifacts
+end_time: 1749010607451
+entry_point_name: ''
+experiment_id: '440563976010855809'
+lifecycle_stage: active
+run_id: fd2d5d64424448cdbdb348c03e09d6dd
+run_name: worried-mare-799
+run_uuid: fd2d5d64424448cdbdb348c03e09d6dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749010604717
+status: 3
+tags: []
+user_id: neosoft

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/neosoft/ml_pipeline/mlruns/440563976010855809/c67e164d2062403c9fcb4a2820467fb7/artifacts
+end_time: 1748604278387
+entry_point_name: ''
+experiment_id: '440563976010855809'
+lifecycle_stage: active
+run_id: c67e164d2062403c9fcb4a2820467fb7
+run_name: redolent-shrimp-802
+run_uuid: c67e164d2062403c9fcb4a2820467fb7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748604278363
+status: 4
+tags: []
+user_id: neosoft

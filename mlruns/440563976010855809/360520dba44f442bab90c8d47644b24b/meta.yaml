@@ -1,0 +1,15 @@
+artifact_uri: file:///home/neosoft/ml_pipeline/mlruns/440563976010855809/360520dba44f442bab90c8d47644b24b/artifacts
+end_time: 1749010773794
+entry_point_name: ''
+experiment_id: '440563976010855809'
+lifecycle_stage: active
+run_id: 360520dba44f442bab90c8d47644b24b
+run_name: languid-squid-525
+run_uuid: 360520dba44f442bab90c8d47644b24b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749010771204
+status: 3
+tags: []
+user_id: neosoft

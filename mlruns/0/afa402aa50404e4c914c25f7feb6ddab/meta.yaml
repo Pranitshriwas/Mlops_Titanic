@@ -1,0 +1,15 @@
+artifact_uri: file:///home/neosoft/ml_pipeline/mlruns/0/afa402aa50404e4c914c25f7feb6ddab/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: afa402aa50404e4c914c25f7feb6ddab
+run_name: invincible-vole-593
+run_uuid: afa402aa50404e4c914c25f7feb6ddab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748928183588
+status: 1
+tags: []
+user_id: neosoft

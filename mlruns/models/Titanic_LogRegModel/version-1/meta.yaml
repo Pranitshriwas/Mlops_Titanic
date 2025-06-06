@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1748606790754
+current_stage: None
+description: null
+last_updated_timestamp: 1748606790754
+name: Titanic_LogRegModel
+run_id: 1629ba36939a4cacb3d10b0e92508ce7
+run_link: null
+source: runs:/1629ba36939a4cacb3d10b0e92508ce7/model
+status: READY
+status_message: null
+storage_location: runs:/1629ba36939a4cacb3d10b0e92508ce7/model
+user_id: null
+version: 1

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/neosoft/ml_pipeline/mlruns/440563976010855809/47e36b2498644ed9998d47b62a95115c/artifacts
+end_time: 1748938549252
+entry_point_name: ''
+experiment_id: '440563976010855809'
+lifecycle_stage: active
+run_id: 47e36b2498644ed9998d47b62a95115c
+run_name: victorious-ram-818
+run_uuid: 47e36b2498644ed9998d47b62a95115c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748938544358
+status: 3
+tags: []
+user_id: neosoft

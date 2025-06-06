@@ -1,0 +1,15 @@
+artifact_uri: file:///home/neosoft/ml_pipeline/mlruns/440563976010855809/d29df833c6b143a785a7fe0708b63118/artifacts
+end_time: 1749010165332
+entry_point_name: ''
+experiment_id: '440563976010855809'
+lifecycle_stage: active
+run_id: d29df833c6b143a785a7fe0708b63118
+run_name: funny-foal-995
+run_uuid: d29df833c6b143a785a7fe0708b63118
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749010161898
+status: 3
+tags: []
+user_id: neosoft

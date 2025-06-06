@@ -1,0 +1,15 @@
+artifact_uri: file:///home/neosoft/ml_pipeline/mlruns/0/627f5272b99045aa889953bb11a9d4ff/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 627f5272b99045aa889953bb11a9d4ff
+run_name: judicious-worm-669
+run_uuid: 627f5272b99045aa889953bb11a9d4ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749010576075
+status: 1
+tags: []
+user_id: neosoft

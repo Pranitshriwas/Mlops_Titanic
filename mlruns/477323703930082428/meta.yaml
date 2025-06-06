@@ -1,0 +1,6 @@
+artifact_location: file:///home/neosoft/ml_pipeline/mlruns/477323703930082428
+creation_time: 1748604193665
+experiment_id: '477323703930082428'
+last_update_time: 1748604193665
+lifecycle_stage: active
+name: Titanic_Logistic_Regression

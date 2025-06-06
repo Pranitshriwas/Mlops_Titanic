@@ -1,0 +1,15 @@
+artifact_uri: file:///home/neosoft/ml_pipeline/mlruns/737354867348935518/9c7d398b43ab4b9180ff26c20fe8ea16/artifacts
+end_time: 1748606410506
+entry_point_name: ''
+experiment_id: '737354867348935518'
+lifecycle_stage: active
+run_id: 9c7d398b43ab4b9180ff26c20fe8ea16
+run_name: angry-crab-288
+run_uuid: 9c7d398b43ab4b9180ff26c20fe8ea16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748606410396
+status: 3
+tags: []
+user_id: neosoft
